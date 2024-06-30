@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define the linear gradient -->
+  <defs>
+    <linearGradient id="backgroundGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#439DDF" />
+      <stop offset="100%" style="stop-color:#D6645D" />
+    </linearGradient>
+  </defs>
+  <!-- Use the gradient for the background -->
+  <rect width="31.5077" height="32" rx="8" fill="url(#backgroundGradient)"/>
+  <path d="M16 10.1236V21.8468" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M21.8672 15.9844H10.1328" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
